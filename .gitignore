@@ -1,0 +1,14 @@
+# 忽略所有 .env 文件
+*.env
+
+# 忽略所有 .log 文件
+*.log
+
+# 忽略整个 node_modules 文件夹
+node_modules/
+
+# 忽略 .vscode 个人配置
+.vscode/
+
+# 忽略 Mac 系统文件
+.DS_Store
